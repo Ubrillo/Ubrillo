@@ -11,4 +11,4 @@ Java · Spring Boot · Kafka · PostgreSQL · Python · FastAPI · LangChain/Lan
 - [ShelfSense](link) — AI agent for in-store product intelligence (LangGraph, NLP-to-SQL)
 - [Delivery Tracking System](link) — Spring Boot + WebSockets real-time tracking
 
-## 📫 Reach me: [LinkedIn] · [Email]
+## 📫 Reach me: linkedin.com/in/ubong-udoette-7767991b2 · grandsonudoette005@gmail.com
