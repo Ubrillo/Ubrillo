@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi, I'm Ubong 👋
 
-<!--
-**Ubrillo/Ubrillo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend engineer focused on real-time systems, distributed architecture, 
+and Java/Spring Boot — also building with Python/FastAPI and LangGraph.
 
-Here are some ideas to get you started:
+## 🔧 Tech Stack
+Java · Spring Boot · Kafka · PostgreSQL · Python · FastAPI · LangChain/LangGraph · Docker
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Featured Projects
+- [Fleet Management System](link) — Microservices, Kafka streaming, real-time telemetry
+- [ShelfSense](link) — AI agent for in-store product intelligence (LangGraph, NLP-to-SQL)
+- [Delivery Tracking System](link) — Spring Boot + WebSockets real-time tracking
+
+## 📫 Reach me: [LinkedIn] · [Email]
