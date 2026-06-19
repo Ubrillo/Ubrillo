@@ -4,7 +4,7 @@ Backend engineer focused on real-time systems, distributed architecture,
 and Java/Spring Boot — also building with Python/FastAPI and LangGraph.
 
 ## 🔧 Tech Stack
-Java · Spring Boot · Kafka · PostgreSQL · Python · FastAPI · LangChain/LangGraph · Docker
+Java · Spring Boot · Kafka · Redis · PostgreSQL · Python · FastAPI · LangChain/LangGraph · Docker
 
 ## 🚀 Featured Projects
 - [Fleet Management System](link) — Microservices, Kafka streaming, real-time telemetry
