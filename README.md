@@ -8,7 +8,7 @@ Java · Spring Boot · Kafka · Redis · PostgreSQL · Python · FastAPI · Lang
 
 ## 🚀 Featured Projects
 
-- [Delivery Tracking System](link) — Spring Boot + WebSockets real-time tracking
+- [Delivery Tracking System](https://github.com/Ubrillo/Real-Time-Distributed-Delivery-Tracking-System) — Spring Boot + WebSockets real-time tracking
 - [ShelfSense](link) — AI agent for in-store product intelligence (LangGraph, NLP-to-SQL)
 - [Fleet Management System](link) — Microservices, Kafka streaming, real-time telemetry
 
