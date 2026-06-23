@@ -7,8 +7,9 @@ and Java/Spring Boot — also building with Python/FastAPI and LangGraph.
 Java · Spring Boot · Kafka · Redis · PostgreSQL · Python · FastAPI · LangChain/LangGraph · Docker
 
 ## 🚀 Featured Projects
-- [Fleet Management System](link) — Microservices, Kafka streaming, real-time telemetry
-- [ShelfSense](link) — AI agent for in-store product intelligence (LangGraph, NLP-to-SQL)
+
 - [Delivery Tracking System](link) — Spring Boot + WebSockets real-time tracking
+- [ShelfSense](link) — AI agent for in-store product intelligence (LangGraph, NLP-to-SQL)
+- [Fleet Management System](link) — Microservices, Kafka streaming, real-time telemetry
 
 ## 📫 Reach me: linkedin.com/in/ubong-udoette-7767991b2 · grandsonudoette005@gmail.com
