@@ -1,6 +1,6 @@
 # Hi, I'm Ubong 👋
 
-Backend engineer focused on real-time systems, distributed architecture, 
+Software engineer focused on real-time systems, distributed architecture, 
 and Java/Spring Boot — also building with Python/FastAPI and LangGraph.
 
 ## 🔧 Tech Stack
