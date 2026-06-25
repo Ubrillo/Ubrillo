@@ -8,9 +8,13 @@ Java · Spring Boot · Kafka · Redis · PostgreSQL · Python · FastAPI · Lang
 
 ## 🚀 Featured Projects
 
+### Backend Software Engineering Projects
 - [Distributed Real Time Delivery Tracking System](https://github.com/Ubrillo/Real-Time-Distributed-Delivery-Tracking-System) — Spring Boot + WebSockets real-time tracking + Kafka + PostgreSQL + Redis
--[Spring Boot Security with JWT Implementation](https://github.com/Ubrillo/Spring-Security) - Spring Security + JSON Web Tokens (JWT) + BCrypt
-- [ShelfSense](link) — AI agent for in-store product intelligence (LangGraph, NLP-to-SQL)
+- [Spring Boot Security with JWT Implementation](https://github.com/Ubrillo/Spring-Security) - Spring Security + JSON Web Tokens (JWT) + BCrypt
+- [Depot-Application-System](https://github.com/Ubrillo/Depot-Application-System) - Java + Java FX + Logging (Singleton) + Design Pattern(MVC)+ 3-Tier Architecture (Presentation, Logic, Database) +  Event Listeners + Streams 
 - [Fleet Management System](link) — Microservices, Kafka streaming, real-time telemetry
 
+### AI/ML Projects
+- [ShelfSense](link) — AI agent for in-store product intelligence (LangGraph, NLP-to-SQL)
+- 
 ## 📫 Reach me: linkedin.com/in/ubong-udoette-7767991b2 · grandsonudoette005@gmail.com
