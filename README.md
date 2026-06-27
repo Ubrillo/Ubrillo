@@ -24,7 +24,7 @@ Java · Spring Boot · Kafka · Redis · PostgreSQL · Python · FastAPI · Lang
 ### ML Projects
 - [Home Prices Prediction System (2026)](https://github.com/Ubrillo/BangloreHomePrices) - Python + NumPy, Pandas + Matplotlib + Scikit-learn Flask + FastAPI + HTML/CSS + JavaScript + Ngnix + AWS
 - [Diabetes Prediction Model (2025)](https://github.com/Ubrillo/Diabetes-Predictive-Model) - Python + NumPy + Pandas + Matplotlib + Scikit-learn
-- [Final-Year-Project (2025](https://github.com/Ubrillo/Final-Year-Project) + Python + Robotics + Computer Vision (YOLO, OpenCV)
+- [Final-Year-Project (2025](https://github.com/Ubrillo/Final-Year-Project) + Python + Robotics + Computer Vision (YOLO, OpenCV) + Linux
 - [Fruit Classification Model (2024)](https://github.com/Ubrillo/Ubrillo/edit/main/README.md) + Deep Learning + Python +  NumPy + Pandas + 
 - [Mountain-Car (2025)](https://github.com/Ubrillo/Mountain-Car) - Reinforcement Learning + Descritization + Math + Python
 
