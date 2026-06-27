@@ -15,11 +15,11 @@ Java · Spring Boot · Kafka · Redis · PostgreSQL · Python · FastAPI · Lang
 - [Java Software Engineering Game (2024)](https://github.com/Ubrillo/Java-Software-Engineering-Game) - Java + Streams + Junit Testing
 
 ### AI Projects
-- [LLM-Powered-Text-to-SQL-Product-Retrieval-System (2026)](https://github.com/Ubrillo/LLM-Powered-Text-to-SQL-Product-Retrieval-System) Python + LangChain + Embedding + Vector Database + OpenAI + MySQL
-- [Job Matching Agent (2026](https://github.com/Ubrillo/Job-Matching-Agent) - Python + LangGraph/LangChain + Embedding + OpenAI + Vector Database + Streamlit 
-- [AI-Research-Paper-Analyzer (2026)](https://github.com/Ubrillo/AI-Research-Paper-Analyzer) + Python + LangGraph/LangChain + Embedding + OpenAI + Vector Database + Streamlit
-- [RAG Based Web Research Assitant-Tool (2026)](https://github.com/Ubrillo/AI-URL-Search-Tool) + Python + LangChain + Embedding + Vector Database + OpenAI + Streamlit
-- [ShelfSense](link) — AI agent for in-store product intelligence (LangGraph, NLP-to-SQL)
+- [LLM-Powered-Text-to-SQL-Product-Retrieval-System (2026)](https://github.com/Ubrillo/LLM-Powered-Text-to-SQL-Product-Retrieval-System) Python + LangChain + Embedding + Vector Database + OpenAI + MySQL + Linux
+- [Job Matching Agent (2026](https://github.com/Ubrillo/Job-Matching-Agent) - Python + LangGraph/LangChain + Embedding + OpenAI + Vector Database + Streamlit + Linux
+- [AI-Research-Paper-Analyzer (2026)](https://github.com/Ubrillo/AI-Research-Paper-Analyzer) + Python + LangGraph/LangChain + Embedding + OpenAI + Vector Database + Streamlit + Linux
+- [RAG Based Web Research Assitant-Tool (2026)](https://github.com/Ubrillo/AI-URL-Search-Tool) + Python + LangChain + Embedding + Vector Database + OpenAI + Streamlit + Linux
+- [ShelfSense](link) — AI agent for in-store product intelligence (LangGraph, NLP-to-SQL) + Linux
 
 ### ML Projects
 - [Home Prices Prediction System (2026)](https://github.com/Ubrillo/BangloreHomePrices) - Python + NumPy, Pandas + Matplotlib + Scikit-learn Flask + FastAPI + HTML/CSS + JavaScript + Ngnix + AWS
