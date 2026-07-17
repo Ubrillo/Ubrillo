@@ -1,10 +1,10 @@
 # Hi, I'm Ubong 👋
 
 Software engineer focused on real-time systems, distributed architecture and Intelligent Systems.
-and Java/Spring Boot — also building with Python/FastAPI and LangGraph.
+and Java/Spring Boot — also building with Python/FastAPI and LangGraph. I am currentlyseeking for software engineer role to sartup my career.
 
 ## 🔧 Tech Stack
-Java · Spring Boot · Kafka · Redis · PostgreSQL · Python · FastAPI · LangChain/LangGraph · Docker
+Java · Spring Boot · Kafka · Redis · PostgreSQL · Python · FastAPI · LangChain/LangGraph · Docker  · C/C++ 
 
 ## 🚀 Featured Projects
 
@@ -29,4 +29,5 @@ Java · Spring Boot · Kafka · Redis · PostgreSQL · Python · FastAPI · Lang
 - [Mountain-Car (2025)](https://github.com/Ubrillo/Mountain-Car) - Reinforcement Learning + Descritization + Math + Python
 
 ### Embedded System/ IoT
+- [Smart Home System (2026)](https://github.com/Ubrillo/BangloreHomePrices) - C/C++, Embedded System, IoT
 ## 📫 Reach me: linkedin.com/in/ubong-udoette-7767991b2 · grandsonudoette005@gmail.com
