@@ -29,5 +29,7 @@ Java · Spring Boot · Kafka · Redis · PostgreSQL · Python · FastAPI · Lang
 - [Mountain-Car (2025)](https://github.com/Ubrillo/Mountain-Car) - Reinforcement Learning + Descritization + Math + Python
 
 ### Embedded System/ IoT
-- [Smart Home System (2026)](https://github.com/Ubrillo/BangloreHomePrices) - C/C++, Embedded System, IoT
+- [Smart Home System (2026)](https://github.com/Ubrillo/Smart_Home_System) - C/C++, Embedded System, IoT
+- [Line Following Robot (2025)](https://github.com/Ubrillo/Line-Follower) - C, Multi-threading, CMake, Linux
+- [Object Detector Robot (2025)](https://github.com/Ubrillo/TrailBot) - C, Multi-threading, CMake, Linux
 ## 📫 Reach me: linkedin.com/in/ubong-udoette-7767991b2 · grandsonudoette005@gmail.com
