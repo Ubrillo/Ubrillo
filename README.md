@@ -12,8 +12,10 @@ Java · Spring Boot · Kafka · Redis · PostgreSQL · Python · FastAPI · Lang
 - [Distributed Real Time Delivery Tracking System (2026)](https://github.com/Ubrillo/Real-Time-Distributed-Delivery-Tracking-System) — Spring Boot + Docker + Web Sockets + Kafka + PostgreSQL + Redis +  HTML/CSS + JavaScript
 - [Spring Boot Security with JWT Implementation (2026)](https://github.com/Ubrillo/Spring-Security) - Spring Security + JSON Web Tokens (JWT) + BCrypt + Docker
 - [Depot-Application-System (2025)](https://github.com/Ubrillo/Depot-Application-System) - Java + Java FX + Logging (Singleton) + Design Pattern(MVC)+ 3-Tier Architecture (Presentation, Logic, Database) +  Event Listeners + Streams
-- [Java Software Engineering Game (2024)](https://github.com/Ubrillo/Java-Software-Engineering-Game) - Java + Streams + Junit Testing + Requirement Analysis
+- [Java Software Engineering Game (2024)](https://github.com/Ubrillo/Java-Software-Engineering-Game) - Java (OOP) + Streams + Junit Testing + Requirement Analysis
 
+### C++
+- [Zenith Attraction Pleasure Park System(2026)](https://github.com/Ubrillo/zapp) - C++ + CMakeList + OOP 
 ### AI Projects
 - [LLM-Powered-Text-to-SQL-Product-Retrieval-System (2026)](https://github.com/Ubrillo/LLM-Powered-Text-to-SQL-Product-Retrieval-System) Python + LangChain + Embedding + Vector Database + OpenAI + MySQL + Linux
 - [Job Matching Agent (2026](https://github.com/Ubrillo/Job-Matching-Agent) - Python + LangGraph/LangChain + Embedding + OpenAI + Vector Database + Streamlit + Linux
