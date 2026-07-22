@@ -1,7 +1,6 @@
 # Hi, I'm Ubong 👋
 
-Software engineer focused on real-time systems, distributed architecture and Intelligent Systems.
-and Java/Spring Boot and C++ — also building with Python/FastAPI and Agentic AI. I am currentlyseeking for software engineer role to sartup my career.
+Software engineer focused on real-time systems, distributed architecture and Intelligent Systems. I use Java/Spring Boot and C++ — also building with Python/FastAPI and Agentic AI. I am currentlyseeking for software engineer role to sartup my career.
 
 ## 🔧 Tech Stack
 Java · Spring Boot · Kafka · Redis · PostgreSQL · Python · FastAPI · LangChain/LangGraph · Docker  · C/C++ 
