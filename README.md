@@ -14,7 +14,8 @@ Java · Spring Boot · Kafka · Redis · PostgreSQL · Python · FastAPI · Lang
 - [Java Software Engineering Game (2024)](https://github.com/Ubrillo/Java-Software-Engineering-Game) - Java (OOP) + Streams + Junit Testing + Requirement Analysis
 
 ### C++
-- [Zenith Park Guest Management System(2026)](https://github.com/Ubrillo/zapp) - C++ + CMakeList + OOP 
+- [Zenith Park Guest Management System(2026)](https://github.com/Ubrillo/zapp) - C++ + CMakeList + OOP
+- [https://github.com/Ubrillo/HttpServer(2026)](https://github.com/Ubrillo/HttpServer) - C++ + Socket Programming + Concurrency/MultiThreading
 ### AI Projects
 - [LLM-Powered-Text-to-SQL-Product-Retrieval-System (2026)](https://github.com/Ubrillo/LLM-Powered-Text-to-SQL-Product-Retrieval-System) Python + LangChain + Embedding + Vector Database + OpenAI + MySQL + Linux
 - [Job Matching Agent (2026](https://github.com/Ubrillo/Job-Matching-Agent) - Python + LangGraph/LangChain + Embedding + OpenAI + Vector Database + Streamlit + Linux
