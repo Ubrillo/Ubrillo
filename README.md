@@ -7,7 +7,7 @@ Java · Spring Boot · Kafka · Redis · PostgreSQL · Python · FastAPI · Lang
 
 ## 🚀 Featured Projects
 
-### C++
+### System Programming
 - [Zenith Park Guest Management System(2026)](https://github.com/Ubrillo/zapp) - C++ + CMakeList + OOP
 - [HTTP Webserver (2026)](https://github.com/Ubrillo/HttpServer) - C++ + Socket Programming + Concurrency/MultiThreading
 
