@@ -1,11 +1,15 @@
 # Hi, I'm Ubong 👋
 
-Software engineer focused on real-time systems, distributed architecture and Intelligent Systems. I use Java/Spring Boot and C++ — also building with Python/FastAPI and Agentic AI. I am currentlyseeking for software engineer role to sartup my career.
+Software engineer passionate about real-time systems, distributed architecture, backend engineering, and intelligent systems. I build high-performance software using C++, Java/Spring Boot, and Python/FastAPI, while exploring agentic AI and modern distributed systems. I'm currently seeking a graduate software engineering role where I can contribute to building reliable, scalable software.
 
 ## 🔧 Tech Stack
 Java · Spring Boot · Kafka · Redis · PostgreSQL · Python · FastAPI · LangChain/LangGraph · Docker  · C/C++ 
 
 ## 🚀 Featured Projects
+
+### C++
+- [Zenith Park Guest Management System(2026)](https://github.com/Ubrillo/zapp) - C++ + CMakeList + OOP
+- [HTTP Webserver (2026)](https://github.com/Ubrillo/HttpServer) - C++ + Socket Programming + Concurrency/MultiThreading
 
 ### Backend Software Engineering Projects
 - [Distributed Real Time Delivery Tracking System (2026)](https://github.com/Ubrillo/Real-Time-Distributed-Delivery-Tracking-System) — Spring Boot + Docker + Web Sockets + Kafka + PostgreSQL + Redis +  HTML/CSS + JavaScript
@@ -13,9 +17,6 @@ Java · Spring Boot · Kafka · Redis · PostgreSQL · Python · FastAPI · Lang
 - [Depot-Application-System (2025)](https://github.com/Ubrillo/Depot-Application-System) - Java + Java FX + Logging (Singleton) + Design Pattern(MVC)+ 3-Tier Architecture (Presentation, Logic, Database) +  Event Listeners + Streams
 - [Java Software Engineering Game (2024)](https://github.com/Ubrillo/Java-Software-Engineering-Game) - Java (OOP) + Streams + Junit Testing + Requirement Analysis
 
-### C++
-- [Zenith Park Guest Management System(2026)](https://github.com/Ubrillo/zapp) - C++ + CMakeList + OOP
-- [HTTP Webserver (2026)](https://github.com/Ubrillo/HttpServer) - C++ + Socket Programming + Concurrency/MultiThreading
 ### AI Projects
 - [LLM-Powered-Text-to-SQL-Product-Retrieval-System (2026)](https://github.com/Ubrillo/LLM-Powered-Text-to-SQL-Product-Retrieval-System) Python + LangChain + Embedding + Vector Database + OpenAI + MySQL + Linux
 - [Job Matching Agent (2026](https://github.com/Ubrillo/Job-Matching-Agent) - Python + LangGraph/LangChain + Embedding + OpenAI + Vector Database + Streamlit + Linux
